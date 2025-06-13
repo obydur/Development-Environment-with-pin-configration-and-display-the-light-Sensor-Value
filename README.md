@@ -8,5 +8,6 @@ Development-Environment-with-pin-configration-and-display-the-light-Sensor-Value
 3.2. Task 1 - Reading and Displaying the Potentiometer Value 
 3.3. Task 2 - Reading and Displaying the Light Sensor Value 
 3.4. Task 3 - Implementing a Binary Counter
+    Unite 1
 
    
